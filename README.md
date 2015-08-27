@@ -6,3 +6,5 @@ Spent a couple of weeks implementing a simple file browser GUI using C and GTK+3
 ![alt tag](https://raw.github.com/Jake-Smullin/file-browser-GTK-3.0/master/browser2.png)
 
 ![alt tag](https://raw.github.com/Jake-Smullin/file-browser-GTK-3.0/master/browser3.png)
+
+![alt tag](https://raw.github.com/Jake-Smullin/file-browser-GTK-3.0/master/browser4.png)
